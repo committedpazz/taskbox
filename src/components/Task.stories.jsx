@@ -1,5 +1,5 @@
 
-import Task from './Tasks';
+import Task from './Task';
 
 export default {
   component: Task,
